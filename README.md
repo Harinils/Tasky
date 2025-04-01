@@ -88,10 +88,4 @@ TaskSphere is an application designed to help you efficiently manage your tasks 
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## License
 
-This project is licensed under the MIT License.
-
-## Acknowledgements
-
-Inspiration for this project came from the need for efficient task management tools.
